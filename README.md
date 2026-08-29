@@ -62,10 +62,13 @@ $ cat about.txt
 ### 🏆 ~/achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/QUEST-AI%20Model%20Architect-00FF66?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/RANK-Generative%20Specialist-00E5FF?style=for-the-badge&logo=matrix&logoColor=black" />
-  <img src="https://img.shields.io/badge/MEDAL-Automation%20Master-FF0055?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEVEL-Production%20Ready-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="75px" alt="Pull Shark" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="75px" alt="Quickdraw" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bb92e03d8.png" width="75px" alt="YOLO" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="75px" alt="Starstruck" />
 </p>
 
 ---
