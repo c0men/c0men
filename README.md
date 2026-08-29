@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=180&section=header&text=JAVOXIR%20SALIYEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
-
-
 <div align="center">
 
-# Javoxir Saliyev
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=180&section=header&text=JAVOXIR%20SALIYEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
 ### AI Specialist & Generative Media Developer
 
+<!-- Dinamik yoziluvchi matn (Typewriter) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Prompt+Engineering;Generative+AI+Video+Workflows;Local+AI+Automation;Python+%7C+Go+%7C+PowerShell" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Badges -->
 <p align="center">
   <a href="https://javoxir.org"><img src="https://img.shields.io/badge/PORTFOLIO-javoxir.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/uzbfx"><img src="https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -19,6 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=c0men&label=profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+</div>
 ---
 
 </div>
