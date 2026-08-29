@@ -43,10 +43,12 @@ $ cat about.txt
 
 ---
 
+---
+
 ### 📊 ~/skill radar & activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/c0men/c0men/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Activity" width="100%" />
+  <img src="https://raw.githubusercontent.com/c0men/c0men/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Skill Radar & Activity" width="100%" />
 </p>
 
 ---
