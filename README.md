@@ -60,3 +60,11 @@ $ cat about.txt
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0men&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0men&theme=tokyonight" width="49%" alt="GitHub Summary" />
 </p>
+
+---
+
+### 🐍 ~/matrix snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
