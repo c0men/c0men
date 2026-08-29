@@ -96,3 +96,15 @@ drwx------  c0men  staff  <b><a href="https://github.com/c0men/720">./720-ai-eng
 drwx------  c0men  staff  <b><a href="https://github.com/c0men">./local-automation</a></b>     [Bash / PowerShell Workflows]
 drwx------  c0men  staff  <b><a href="https://github.com/c0men">./neural-scripts</a></b>       [Python CLI & OpenCode Tools]
 </pre>
+
+
+---
+
+### ⚡ ~/system status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI_CORE-LOADED-00E5FF?style=flat-square&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-FF0055?style=flat-square&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-FFD700?style=flat-square&logo=clockify&logoColor=black" />
+</p>
