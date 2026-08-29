@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=180&section=header&text=JAVOXIR%20SALIYEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
+
 <div align="center">
 
 # Javoxir Saliyev
