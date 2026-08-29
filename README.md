@@ -80,14 +80,13 @@ $ cat about.txt
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
+---
 
 ---
 
 ### 🎧 ~/current frequency
 
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=c0men&count=1&theme=tokyonight" width="60%" alt="Spotify Status" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0men&repo=c0men&theme=tokyonight&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117&description=▶%20Beach%20House%20-%20Space%20Song%20[02:45%20/%2005:20]%20🔊%20████████░░" width="60%" alt="Now Playing" />
 </p>
 
