@@ -43,8 +43,6 @@ $ cat about.txt
 
 ---
 
----
-
 ### 📊 ~/skill radar & activity
 
 <p align="center">
