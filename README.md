@@ -108,3 +108,17 @@ drwx------  c0men  staff  <b><a href="https://github.com/c0men">./neural-scripts
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-FF0055?style=flat-square&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/UPTIME-99.9%25-FFD700?style=flat-square&logo=clockify&logoColor=black" />
 </p>
+
+
+---
+
+### 📡 ~/connect
+
+<pre>
+$ ping -c 1 javoxir.org
+64 bytes from javoxir.org: icmp_seq=1 ttl=116 time=12.4 ms
+--- Connection Established ---
+Telegram : <a href="https://t.me/uzbfx">@uzbfx</a>
+Portfolio: <a href="https://javoxir.org">https://javoxir.org</a>
+Email    : <a href="mailto:comendurov@gmail.com">comendurov@gmail.com</a>
+</pre>
