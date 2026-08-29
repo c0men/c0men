@@ -62,16 +62,16 @@ $ cat about.txt
 ### 🏆 ~/achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 🎧 ~/current frequency
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0men&repo=c0men&theme=tokyonight&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117&description=▶%20Beach%20House%20-%20Space%20Song%20[02:45%20/%2005:20]%20🔊%20████████░░" width="60%" alt="Now Playing" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=35&lines=%E2%96%B6%20Playing%3A%20Beach%20House%20-%20Space%20Song%20%F0%9F%94%8A;%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%97%8F%E2%96%AC%E2%96%AC%E2%96%AC%2002%3A45%20%2F%2005%3A20;%E2%88%9E%20Repeat%3A%20ON%20%7C%20Bitrate%3A%20320kbps%20FLAC" alt="Frequency Player" />
+</div>
 
 ---
 
