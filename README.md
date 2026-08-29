@@ -63,12 +63,14 @@ $ cat about.txt
 
 ---
 
+---
+
 ### 🐍 ~/matrix snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
-
+ 
 ---
 
 ---
