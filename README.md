@@ -68,3 +68,24 @@ $ cat about.txt
 <p align="center">
   <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
+
+---
+
+### 🏆 ~/achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🎧 ~/current frequency
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=c0men&count=1&theme=tokyonight" width="60%" alt="Spotify Status" />
+  </a>
+</p>
+
