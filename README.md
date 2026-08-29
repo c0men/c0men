@@ -84,3 +84,15 @@ $ gh achievements --status
 <p align="center">
   <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
+
+
+---
+
+### 📂 ~/featured projects
+
+<pre>
+$ ls -la /projects
+drwx------  c0men  staff  <b><a href="https://github.com/c0men/720">./720-ai-engine</a></b>        [Generative Video & Pipeline]
+drwx------  c0men  staff  <b><a href="https://github.com/c0men">./local-automation</a></b>     [Bash / PowerShell Workflows]
+drwx------  c0men  staff  <b><a href="https://github.com/c0men">./neural-scripts</a></b>       [Python CLI & OpenCode Tools]
+</pre>
