@@ -22,3 +22,10 @@ $ cat about.txt
 - Tools & Tech: Python, Go, Bash / PowerShell, OpenCode CLI
 - Current Projects: 720 & Generative AI workflows
 - Location: Urgench, Uzbekistan
+
+---
+
+### ⚡ Core Activity | 3D Topology
+<p align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Matrix 3D Graph" width="100%" />
+</p>
