@@ -49,5 +49,6 @@ $ cat about.txt
 ### 📈 ~/the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=c0men&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0men&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0men&theme=tokyonight" width="49%" alt="GitHub Summary" />
 </p>
