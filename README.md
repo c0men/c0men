@@ -62,7 +62,10 @@ $ cat about.txt
 ### 🏆 ~/achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=onedark&margin-w=4" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/QUEST-AI%20Model%20Architect-00FF66?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/RANK-Generative%20Specialist-00E5FF?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/MEDAL-Automation%20Master-FF0055?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEVEL-Production%20Ready-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 ---
