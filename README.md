@@ -23,7 +23,6 @@ $ cat about.txt
 - Current Projects: 720 & Generative AI workflows
 - Location: Urgench, Uzbekistan
 
----
 
 ### ⚡ Core Activity | 3D Topology
 <p align="center">
