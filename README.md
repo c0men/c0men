@@ -38,12 +38,12 @@ $ cat about.txt
 
 ---
 
+
 ### 🛠️ ~/toolbox
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,powershell,bash,git,github,cloudflare,vscode,fastapi,docker&theme=dark" />
 </p>
-
 ---
 
 ### 📊 ~/skill radar & activity
