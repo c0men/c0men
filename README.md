@@ -4,12 +4,10 @@
 
 ### AI Specialist & Generative Media Developer
 
-<!-- Dinamik yoziluvchi matn (Typewriter) -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Prompt+Engineering;Generative+AI+Video+Workflows;Local+AI+Automation;Python+%7C+Go+%7C+PowerShell" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Badges -->
 <p align="center">
   <a href="https://javoxir.org"><img src="https://img.shields.io/badge/PORTFOLIO-javoxir.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/uzbfx"><img src="https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -22,34 +20,33 @@
 </p>
 
 </div>
----
 
-</div>
+---
 
 ### ⚡ ~/whoami
 
 <pre>
 $ cat about.txt
-- Focus: Artificial Intelligence, Generative Video & Local Automation
-- Tools & Tech: Python, Go, Bash / PowerShell, OpenCode CLI
-- Current Projects: 720 & Generative AI workflows
+- Focus: Artificial Intelligence, Generative Video &amp; Local Automation
+- Tools &amp; Tech: Python, Go, Bash / PowerShell, OpenCode CLI
+- Current Projects: 720 &amp; Generative AI workflows
 - Location: Urgench, Uzbekistan
 </pre>
 
 ---
-
 
 ### 🛠️ ~/toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,powershell,bash,git,github,cloudflare,vscode,fastapi,docker&theme=dark" />
 </p>
+
 ---
 
 ### 📊 ~/skill radar & activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/c0men/c0men/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Activity" width="100%" />
+  <img src="https://raw.githubusercontent.com/c0men/c0men/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Activity" width="100%" />
 </p>
 
 ---
@@ -57,21 +54,8 @@ $ cat about.txt
 ### 📈 ~/the numbers
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0men&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0men&theme=tokyonight" width="49%" alt="GitHub Summary" />
+  <img src="https://streak-stats.demolab.com?user=c0men&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" alt="GitHub Streak" />
 </p>
-
----
-
----
-
-### 🐍 ~/matrix snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
- 
----
 
 ---
 
@@ -80,7 +64,6 @@ $ cat about.txt
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=c0men&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
----
 
 ---
 
@@ -90,3 +73,10 @@ $ cat about.txt
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=c0men&repo=c0men&theme=tokyonight&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117&description=▶%20Beach%20House%20-%20Space%20Song%20[02:45%20/%2005:20]%20🔊%20████████░░" width="60%" alt="Now Playing" />
 </p>
 
+---
+
+### 🐍 ~/matrix snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
