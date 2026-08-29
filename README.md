@@ -3,32 +3,52 @@
 # Javoxir Saliyev
 ### AI Specialist & Generative Media Developer
 
-<!-- Badges -->
 <p align="center">
-  <a href="[https://javoxir.org](https://javoxir.org)"><img src="[https://img.shields.io/badge/Portfolio-javoxir.org-black?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-javoxir.org-black?style=for-the-badge&logo=googlechrome&logoColor=white)" /></a>
-  <a href="[https://x.com/uzbfx](https://x.com/uzbfx)"><img src="[https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white)" /></a>
-  <a href="[https://instagram.com/javoxirai](https://instagram.com/javoxirai)"><img src="[https://img.shields.io/badge/Instagram-@javoxirai-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-@javoxirai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" /></a>
-  <a href="mailto:comendurov@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+  <a href="https://javoxir.org"><img src="https://img.shields.io/badge/PORTFOLIO-javoxir.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/uzbfx"><img src="https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/javoxirai"><img src="https://img.shields.io/badge/INSTAGRAM-@javoxirai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:comendurov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c0men&label=profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### ⚡ $ whoami
+</div>
+
+### ⚡ ~/whoami
 
 <pre>
 $ cat about.txt
-- Focus: Artificial Intelligence, Generative Video &amp; Local Automation
-- Tools &amp; Tech: Python, Go, Bash / PowerShell, OpenCode CLI
-- Current Projects: 720 &amp; Generative AI workflows
+- Focus: Artificial Intelligence, Generative Video & Local Automation
+- Tools & Tech: Python, Go, Bash / PowerShell, OpenCode CLI
+- Current Projects: 720 & Generative AI workflows
 - Location: Urgench, Uzbekistan
 </pre>
 
 ---
 
-### ⚡ Core Activity | 3D Topology
+### 🛠️ ~/toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,powershell,bash,git,github,cloudflare,vscode,fastapi,docker&theme=dark" />
+</p>
+
+---
+
+### 📊 ~/skill radar & activity
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Matrix 3D Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/c0men/c0men/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Activity" width="100%" />
+</p>
+
+---
+
+### 📈 ~/the numbers
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c0men&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0men&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </p>
