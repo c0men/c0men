@@ -61,15 +61,13 @@ $ cat about.txt
 
 ### 🏆 ~/achievements
 
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="75px" alt="Pull Shark" />
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="75px" alt="Quickdraw" />
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bb92e03d8.png" width="75px" alt="YOLO" />
-  &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="75px" alt="Starstruck" />
-</p>
+<pre>
+$ gh achievements --status
+[✔] Core Contributor   :: Unlocked (Multi-repo commits)
+[✔] AI Workflows       :: Active (720-AI & Generative Tools)
+[✔] Streak Keeper      :: Verified
+[✔] Code Craftsmanship :: Level 99
+</pre>
 
 ---
 
