@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://javoxir.org"><img src="https://img.shields.io/badge/PORTFOLIO-javoxir.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/uzbfx"><img src="https://img.shields.io/badge/X-@uzbfx-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/javoxirai"><img src="https://img.shields.io/badge/INSTAGRAM-@javoxirai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/c0men"><img src="https://img.shields.io/badge/INSTAGRAM-@c0men-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:comendurov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
