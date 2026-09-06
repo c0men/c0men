@@ -32,7 +32,7 @@ $ cat about.txt
 ### 🛠️ ~/toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,powershell,bash,git,docker,fastapi,cloudflare,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,powershell,bash,git,cloudflare,vscode&theme=dark" />
 </p>
 
 ---
