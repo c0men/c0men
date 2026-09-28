@@ -62,3 +62,36 @@ X         : <a href="https://x.com/uzbfx">@uzbfx</a>
 Portfolio : <a href="https://javoxir.org">https://javoxir.org</a>
 Email     : <a href="mailto:comendurov@gmail.com">comendurov@gmail.com</a>
 </pre>
+
+---
+
+## 🏆 GitHub Achievements & Highlights
+
+### Profile Highlights
+- Developer Program Member
+- GitHub Pro
+- Security Bug Bounty Hunter
+- GitHub Campus Expert
+- Security Advisory Credit
+
+### Active Achievements
+- Pair Extraordinaire
+- Quickdraw
+- Starstruck
+- Galaxy Brain
+- Pull Shark
+- YOLO
+- Public Sponsor
+
+### Historical Achievements
+- Arctic Code Vault Contributor
+- Mars 2020 Contributor
+
+### Experimental Achievements
+- Heart On Your Sleeve
+- Open Sourcerer
+
+### GitHub Staff Achievements
+- Proxima Pioneer
+- Proxima Staffshipper
+- Proxima Staffuser
