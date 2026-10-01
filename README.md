@@ -40,7 +40,7 @@ $ cat about.txt
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=c0men&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D&v=2" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0men&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&v=2" width="48%" alt="Top Languages" />
+ 
 </p>
 ---
 
