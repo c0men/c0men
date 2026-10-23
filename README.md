@@ -52,6 +52,13 @@ $ cat about.txt
 </p>
 
 ---
+### 🧊 ~/3d-contrib
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
+</p>
+
+---
 
 ### 📡 ~/connect
 
