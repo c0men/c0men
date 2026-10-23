@@ -40,8 +40,9 @@ $ cat about.txt
 ### 📈 ~/activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=c0men&theme=tokyonight&hide_border=true&exclude_days=Sun&v=99
+  <img src="https://streak-stats.demolab.com?user=c0men&theme=tokyonight&hide_border=true&exclude_days=Sun&date_format=M%20j%5B%2C%20Y%5D&v=3" width="48%" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🐍 ~/matrix snake
