@@ -17,12 +17,6 @@
 </div>
 
 ---
-### 📊 ~/stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0men&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" width="60%" alt="GitHub Stats" />
-</p>
----
 
 ### ⚡ ~/whoami
 
