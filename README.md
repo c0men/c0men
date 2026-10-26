@@ -51,12 +51,6 @@ $ cat about.txt
   <img src="https://raw.githubusercontent.com/c0men/c0men/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
----
-### 🧊 ~/3d-contrib
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contrib" />
-</p>
 
 ---
 
